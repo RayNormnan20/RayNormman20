@@ -1,5 +1,14 @@
-# 💫 About Me:
-👨‍💻 Software Developer  <br>🌍 Proudly from Lima, Peru 🇵🇪  <br>🚀 Passionate about technology, innovation, and solving real-world problems through code.  <br><br>💡 Currently working on **backend development with Python, Node.js, and PHP**  <br>☁️ Building **cloud-based solutions with AWS**  <br>📊 Interested in **business process automation and system optimization**  <br>🌱 Always learning **new architectures, design patterns, and best practices**  <br><br>📢 Socials:  <br>
+# 💫 **Sobre Mí:**  
+👨‍💻 **Desarrollador de Software**  
+🌍 **De Lima, Perú** 
+🚀 **Apasionado por la tecnología, la innovación y la solución de problemas del mundo real a través del código.**  
+
+💡 **Actualmente trabajando en desarrollo backend con Python, Node.js .NET, Java, react, y PHP**  
+☁️ **Construyendo soluciones en la nube con AWS**  
+📊 **Interesado en automatización de procesos de negocio y optimización de sistemas**  
+🌱 **Siempre aprendiendo nuevas arquitecturas, patrones de diseño y mejores prácticas**  
+
+📢 **Redes sociales:**    <br>
 
 
 ## 🌐 Socials:
@@ -12,7 +21,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RayNormnan20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayNormnan20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=RayNormnan20&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
