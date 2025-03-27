@@ -1,8 +1,9 @@
-# 💫 **Sobre Mí:**  
-👨‍💻 **Desarrollador de Software**  
-🌍 **De Lima, Perú** 
-🚀 **Apasionado por la tecnología, la innovación y la solución de problemas del mundo real a través del código.**  
+# 💫 **Sobre Mí:** 
 
+
+👨‍💻 **Desarrollador de Software**  
+🌍 **De Lima, Perú**  <br>
+🚀 **Apasionado por la tecnología, la innovación y la solución de problemas del mundo real a través del código.**  
 💡 **Actualmente trabajando en desarrollo backend con Python, Node.js .NET, Java, react, y PHP**  
 ☁️ **Construyendo soluciones en la nube con AWS**  
 📊 **Interesado en automatización de procesos de negocio y optimización de sistemas**  
